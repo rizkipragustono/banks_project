@@ -10,8 +10,6 @@ You can find the required data on this webpage https://web.archive.org/web/20230
 And you can find the exchange rate file here https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/exchange_rate.csv.
 
 ## Project Description:
-- Developed a web scraping solution to extract relevant data from target websites based on specific requirements.
-- Utilized Pandas DataFrames and Python dictionaries for efficient data transformation and cleaning.
-- Stored the processed data in both CSV format and SQLite database tables for flexibility in data access and analysis.
-- Queried and analyzed the data using SQLite3 and Pandas to derive meaningful insights.
-- Implemented robust logging throughout the code to monitor progress and ensure smooth execution.
+- Developed a web scraping solution to extract relevant data from target websites, using Pandas DataFrames and Python dictionaries for efficient transformation.
+- Stored processed data in CSV format and a database for flexible access and analysis.
+- Queried and analyzed data with SQLite3 and Pandas, implementing robust logging for monitoring execution.
