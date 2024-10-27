@@ -1,5 +1,4 @@
-# Banks Project
-Automated Top 10 Largest Banks Report by Market Capitalization
+# Automated Top 10 Largest Banks Report by Market Capitalization
 ## Project Description:
 I developed an automated system for a research organization to generate quarterly reports on the world’s top 10 largest banks by market capitalization. The system compiles bank data in USD, converts it into GBP, EUR, and INR using quarterly exchange rates from a CSV file, and stores the results in both CSV and database formats. This solution ensures consistent, accurate, and efficient reporting every quarter.
 
