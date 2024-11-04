@@ -5,3 +5,8 @@ I developed an automated system for a research organization to generate quarterl
 You can find the required data on this webpage https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks.
 
 And you can find the exchange rate file here https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-PY0221EN-Coursera/labs/v2/exchange_rate.csv.
+
+## Summary:
+- Developed a web scraper to extract bank data, reducing data collection time by 80%.
+- Stored processed data in CSV format and a database for flexible access and analysis.
+- Queried data with SQLite3 and Pandas, adding logging for 100% execution traceability.
